@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Script outputs (regenerated locally)
+outputs/
+analysis_outputs/
+
+# OS / OneDrive noise
+Thumbs.db
+desktop.ini
+~$*
+.DS_Store
