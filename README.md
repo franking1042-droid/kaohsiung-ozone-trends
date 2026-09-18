@@ -19,12 +19,14 @@ The analysis combines:
 - **High-ozone event analysis** — event definition (MDA8 > 60 ppb), seasonality,
   logistic-regression odds ratios, and station-type comparisons.
 
-A manuscript based on this analysis is in preparation. The manuscript text is
-not included in this repository.
+A manuscript based on this analysis is in preparation; current section drafts
+are in `manuscript/` (1. Introduction, 2. Materials and methods, 3. Results,
+4. Discussion and conclusions / 5. Conclusions).
 
 ## Repository layout
 
 ```
+├── manuscript/       # Manuscript section drafts (.docx)
 ├── scripts/          # Analysis pipeline (01–13) + normalization module
 ├── data/             # Small derived data tables (see Data section)
 ├── figures/          # Submission figures (Fig 1–5, S1–S2)
