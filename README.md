@@ -27,6 +27,7 @@ are in `manuscript/` (1. Introduction, 2. Materials and methods, 3. Results,
 
 ```
 ├── manuscript/       # Manuscript section drafts (.docx)
+├── presentations/    # Progress-report slides (speaker notes removed)
 ├── scripts/          # Analysis pipeline (01–13) + normalization module
 ├── data/             # Small derived data tables (see Data section)
 ├── figures/          # Submission figures (Fig 1–5, S1–S2)
