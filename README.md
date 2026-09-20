@@ -99,12 +99,13 @@ CODiS platform (https://codis.cwa.gov.tw/), station 467441 (Kaohsiung).
 full captions.
 
 - Fig 1 — Station map
-- Fig 2 — Annual and monthly MDA8 O₃
+- Fig 2a — Annual citywide mean MDA8 O₃
+- Fig 2b — Monthly distributions of citywide mean MDA8 O₃
 - Fig 3 — Observed vs. meteorologically normalized trend
 - Fig 4 — Event seasonality and meteorology
-- Fig 5 — Random-forest variable importance
-- Fig S1 — Diurnal profiles
-- Fig S2 — Day-of-year cyclic-encoding comparison
+- Fig 5 — Random-forest predictor importance
+- Fig S1 — Seasonal diurnal profiles
+- Fig S2 — GAM day-of-year cyclic-encoding comparison
 
 ## Setup
 
