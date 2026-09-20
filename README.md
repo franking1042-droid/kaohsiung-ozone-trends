@@ -26,6 +26,7 @@ are in `manuscript/` (1. Introduction, 2. Materials and methods, 3. Results,
 ## Repository layout
 
 ```
+├── docs/             # Reading guides (in Chinese): script pipeline + manuscript logic
 ├── manuscript/       # Manuscript section drafts (.docx)
 ├── presentations/    # Progress-report slides (speaker notes removed)
 ├── scripts/          # Analysis pipeline (01–13) + normalization module
