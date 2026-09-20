@@ -26,10 +26,9 @@ are in `manuscript/` (1. Introduction, 2. Materials and methods, 3. Results,
 ## Repository layout
 
 ```
-├── docs/             # Reading guides (in Chinese): script pipeline + manuscript logic
-├── manuscript/       # Manuscript section drafts (.docx)
-├── presentations/    # Progress-report slides (speaker notes removed)
-├── scripts/          # Analysis pipeline (01–13) + normalization module
+├── manuscript/       # Manuscript section drafts (.docx) + per-chapter writing guides (中文)
+├── presentations/    # Progress-report slides
+├── scripts/          # Analysis pipeline (01–13) + normalization module + 程式碼導讀 (中文)
 ├── data/             # Small derived data tables (see Data section)
 ├── figures/          # Submission figures (Fig 1–5, S1–S2)
 ├── tables/           # Figure caption list + Table S4 source data
